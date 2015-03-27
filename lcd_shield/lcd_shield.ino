@@ -11,7 +11,12 @@
  *
  *  LCD BL pin to digital pin 10
  *
- *  KEYS BUTTONS to analog pin 0:
+ *  KEYS BUTTONS to analog pin 0
+ *
+ * Pines libres:
+ *  Arriba: D13 D12 D11 D3 D2 D1 D0
+ *  Abajo IZQ: RST 3.3V 5V GND GND VIN
+ *  Abajo DER: A1 A2 A3 A4 A5
  */
 
 /*
